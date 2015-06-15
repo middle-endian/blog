@@ -1,0 +1,11 @@
+# Site settings
+title: Middle-Endian
+tagline: Your satire tech blog
+description: The best Sydney-based community-run satire tech blog in the world
+baseurl: /
+url: http://middle-endian.com
+email: blog@middle-endian.com
+
+# Build settings
+paginate: 5
+permalink: pretty
