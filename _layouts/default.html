@@ -1,36 +1,16 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]>
-<html class="no-js lt-ie9 lt-ie8 lt-ie7">
-<![endif]-->
-<!--[if IE 7]>
-<html class="no-js lt-ie9 lt-ie8">
-<![endif]-->
-<!--[if IE 8]>
-<html class="no-js lt-ie9">
-<![endif]-->
-<!--[if gt IE 8]><!-->
-<html class="no-js">
-   <!--<![endif]-->
-   {% include head.html %}
-   <body>
-      {% include header.html %}
-      <div class="container">
-        {{ content }}
-      </div>
-      <!-- Main Body -->
-      <!-- Footer -->
-      {% include footer.html %}
-      <!-- Main Home Layout Ends -->
-      <script src="/js/vendor/jquery-1.10.1.min.js"></script>
-      <script src="/js/vendor/bootstrap.min.js"></script>
-      <script src="/js/jquery.smartmenus.min.js"></script>
-      <script src="/js/jquery.flexslider-min.js"></script>
-      <script src="/js/newsTicker.js"></script>
-      <script src="/js/jquery.customSelect.min.js"></script>
-      <script src="/js/retina-1.1.0.min.js"></script>
-      <script src="/js/jflickrfeed.min.js"></script>
-      <script src="/js/calendar.js"></script>
-      <script src="/js/placeholders.min.js"></script>
-      <script src="/js/main.js"></script>
-   </body>
+---
+layout: compress
+---
+{% include head.html %}
+<body id="top-of-page" class="{{ page.format }}">
+	{% include navigation.html %}
+
+	{% include masthead.html %}
+
+	{{ content }}
+
+	{% include footer.html %}
+	
+	{% include footer_scripts.html %}
+</body>
 </html>
