@@ -11,15 +11,15 @@ With the programming industry moving at such a rapid pace. It's often difficult 
 
 **2. Agile** - Agile is a way of working. In layman's terms, it can be thought of as getting poor quality code deployed as quickly as possible, then leaving the company, leaving other people to deal with the repercussions, also known as consulting.
 
-**3. NodeJS** - blah...
+**3. NodeJS** - A gang signal used to indicate developer toughness. Gang members will throw a NodeJS gang sign to establish dominance over other developers.
 
 **4. Functional Programming** - Application used to be written in a single `main` function. If you split you application into multiple functions, this is considered `functional programming`
 
-**5. Closures** - blah...
+**5. Closures** - Javascript tool designed to test how applications handle memory leaks.
 
-**6. Continuous Delivery** - blah...
+**6. Continuous Delivery** - In 1997 scientists discovered that production users don't require a salary, but QA analysts do. This discovery was named 'Continuous Delivery'.
 
-**7. Big Data** - blah...
+**7. Big Data** - Recommended for when your companies data grows to the point that programmers have run out of further material for their resume.
 
 **8. Cloud Computing** - It has been scientifically proven that programming while high on marijuana can improve a programmers ability to solve problems. This is called cloud computing as you are considered to be so high you are in the clouds.
 
