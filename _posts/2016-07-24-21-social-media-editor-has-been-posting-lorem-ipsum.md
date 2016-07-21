@@ -4,9 +4,9 @@ subheadline:  ""
 title:  "Social media editor has been posting lorem ipsum for 2 years after realising no one ever reads beyond the title"
 teaser: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 categories:
-    - dev
+    - technology, social media
 tags:
-    - dev
+    - technology, social media
 header: no
 image:
     thumb: social-media.jpeg
