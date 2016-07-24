@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline:  ""
-title:  "Social media editor has been posting lorem ipsum for 2 years after realising no one ever reads beyond the title"
+title:  "Content Strategist has been posting lorem ipsum for 2 years after realising no one ever reads beyond the title"
 teaser: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 categories:
     - technology, social media
@@ -11,7 +11,7 @@ header: no
 image:
     thumb: social-media.jpeg
     title: social-media.jpeg
-    caption: Social Media
+    caption: Lorem ipsum
     caption_url: ""
 ---
 
