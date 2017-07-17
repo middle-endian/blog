@@ -21,7 +21,7 @@ description: "The best Sydney-based community-run satire tech blog in the world.
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://middle-endian.com"
+url: "https://middle-endian.github.io"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -34,7 +34,7 @@ improve_content: ""
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://middle-endian.com/images/"
+urlimg: "https://middle-endian.github.io/images/"
 
 
 # Logo size is 600x80 pixels
